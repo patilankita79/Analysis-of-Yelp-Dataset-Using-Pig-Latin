@@ -1,5 +1,5 @@
-# Pig-Latin
-This repository contains the Pig Latin Scripts
+# Analysis of the dataset using Pig-Latin
+This repository contains the Pig Latin Scripts which are executed in Mapreduce mode through interactive execution mode(through Grunt Shell)
 
 ========================================================================================================================================
 
